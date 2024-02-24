@@ -1,0 +1,16 @@
+# Files to Ignore
+
+#Visual Studio Community Files
+*.vs
+*.user
+*.sln
+
+# Unreal Engine Files
+Config
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Scipt
+*_Build
+Build
