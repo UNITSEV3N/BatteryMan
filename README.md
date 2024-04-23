@@ -1,6 +1,6 @@
 # BatteryMan
 
-This is the first attempt at learning the very basics of Unreal Engine C++ APII.
+This is the first attempt at learning the very basics of Unreal Engine C++ API.
 
 Made with Unreal Engine 4.27.2
 
