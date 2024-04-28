@@ -1,5 +1,7 @@
 # BatteryMan
 
+Not a big project but was fun to learn 
+
 This is the first attempt at learning the very basics of Unreal Engine C++ API.
 
 Made with Unreal Engine 4.27.2
